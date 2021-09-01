@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IvetaKovarikova
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning web development :)
